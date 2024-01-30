@@ -18,7 +18,7 @@
 <br />
 
 
-<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <br/> <b>About me</b></h2>
+<h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <br/> <b>About Me</b></h2>
 
 <p align="center">
     👋 Hey there! I'm Bagus Budi Wibowo, a web developer passionate about creating engaging web experiences.
