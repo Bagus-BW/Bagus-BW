@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
   </a> 
   <a href="https://t.me/bbw2407" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
+    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="m--mdy--m"  />
   </a> 
    <a href="https://www.linkedin.com/in/bagus-budi-wibowo-710009129" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m--mdy--m"  />
@@ -49,13 +49,16 @@
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=092749)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=FFFFFF)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-213547?style=for-the-badge&logo=vuedotjs&logoColor=42b883)
   ![React.js](https://img.shields.io/badge/React.js-23272f?style=for-the-badge&logo=react&logoColor=0a7ea4)
+  ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
