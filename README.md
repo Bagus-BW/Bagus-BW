@@ -14,6 +14,9 @@
   <a href="https://t.me/bbw2407" target="_blank">
     <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="m--mdy--m"  />
   </a> 
+   <a href="https://www.linkedin.com/in/bagus-budi-wibowo-710009129" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m--mdy--m"  />
+  </a> 
 </p>
 <br />
 
@@ -27,7 +30,7 @@
     I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
     <br/><br/>
     📧 <strong>Reach Me Anytime</strong> <br/>
-    Have a question or suggestion? Drop me a line at bagusbudi.0701@gmail.com.
+    Have a question or suggestion? Drop me a line at bagusbudi.2417@gmail.com.
     <br/><br/>
     💬 <strong>Ask Me About</strong> <br/>
     Troubleshooting, brainstorming ideas, or anything related to web development.
