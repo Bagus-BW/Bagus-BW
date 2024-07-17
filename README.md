@@ -11,9 +11,6 @@
   <a href="https://www.instagram.com/bagus_241" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="_medishn_" />
   </a> 
-  <a href="https://t.me/bbw2407" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="m--mdy--m"  />
-  </a> 
    <a href="https://www.linkedin.com/in/bagus-budi-wibowo-710009129" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="m--mdy--m"  />
   </a> 
